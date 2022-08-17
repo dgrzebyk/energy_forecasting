@@ -1,0 +1,6 @@
+*.csv
+*.xlsx
+
+/data/
+/kaggle_dataset/
+/.ipynb_checkpoints/
