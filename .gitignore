@@ -1,5 +1,7 @@
 *.csv
 *.xlsx
+*.iml
+*.xml
 
 /data/
 /kaggle_dataset/
